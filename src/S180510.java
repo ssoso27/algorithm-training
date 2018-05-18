@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class S180510 {
 
-    int solution(int N) {
+    public int solution(int N) {
         int result = 0;
 
         ArrayList<Integer> fibonach = getFibonach(N);
@@ -35,11 +35,5 @@ public class S180510 {
         }
 
         return fibonach;
-    }
-
-    public static void main(String[] args){
-        S180510 test = new S180510();
-
-        System.out.println(test.solution(-1));
     }
 }
