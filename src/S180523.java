@@ -26,7 +26,9 @@ public class S180523 {
                 substr = "";
             }
         }
-        result = Math.max(substr.length(), result);
+
+        if(result == 0 && substr.length() != 0)
+            return input.length();
 
         return result;
     }
