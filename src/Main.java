@@ -4,6 +4,6 @@ public class Main {
     {
         S180523 study = new S180523();
 
-        System.out.println(study.solution("abcabcd"));
+        System.out.println(study.solution("asdfqwer"));
     }
 }
