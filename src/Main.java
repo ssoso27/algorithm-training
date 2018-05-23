@@ -2,8 +2,8 @@ public class Main {
 
     public static void main(String[] args)
     {
-        S180519 study = new S180519();
+        S180523 study = new S180523();
 
-        System.out.println(study.solution(new int[]{-1, 1, 2, 3, -3, -4, 3, 1}));
+        System.out.println(study.solution("abcabcd"));
     }
 }
