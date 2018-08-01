@@ -7,3 +7,7 @@ ex) 8808 -> 3, 8888 -> 4
 '''
 
 print(sum([str(num).count("8") for num in range(1, 10000)]))
+
+# 해설
+# '[1, 2, 3, ... , 10000]' 이라는 문자열 하나를 만들고, 8의 개수를 센다.
+print(str(list(range(10000))).count('8'))
