@@ -25,9 +25,10 @@ url : http://codingdojang.com/scode/400
 출력: 라 마 바 사 가 나 다
 '''
 
-list = input("회전시킬 양/방향과 리스트를 한 행의 문자열로 입력하세요 : ").split(" ")
-rotate = int(list.pop(0))
-newList = list.
-
-for i, target in enumerate(list):
-
+# 해설
+data = input('회전수, 문자열 입력 : ').split()
+rotate = int(data.pop(0))
+result = [None]*len(data)
+for i in range(len(data)):
+    result[(i+rotate)%len(data)] = data[i]
+print(' '.join(result))
