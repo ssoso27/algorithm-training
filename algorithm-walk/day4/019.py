@@ -1,6 +1,13 @@
 '''
 4일차(2) - 선택정렬
 '''
+
+def get_min_index(list):
+    min = 0
+    for i, n in enumerate(list):
+        if list[min] > n: min = i
+    return min
+
 def select_sort(list): # 반복문
     new_list = []
     while list:
@@ -13,12 +20,6 @@ def select_sort2(list): # 재귀함수
     elif list:
         print(list.pop(get_min_index(list)), end=' ')
         select_sort2(list)
-
-def get_min_index(list):
-    min = 0
-    for i, n in enumerate(list):
-        if list[min] > n: min = i
-    return min
 
 list = [6, 2, 4241, 35, 7, 88, 2, 3, 6]
 print(select_sort(list))

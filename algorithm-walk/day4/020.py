@@ -2,6 +2,12 @@
 4일차(3) - 삽입정렬
 '''
 
+def get_index(target_list, input):
+    if not target_list: return 0
+    for i, n in enumerate(target_list):
+        if input <= n: return i
+    return len(target_list)
+
 def insert_sort(list): # 반복문
     new_list = []
     while list:
@@ -13,13 +19,24 @@ def insert_sort(list): # 반복문
             new_list.append(n)
     return new_list
 
-def get_index(list, input):
-    if not list: return 0
-    for i, n in enumerate(list):
-        if input <= n: return i
+def insert_sort2(origin_list, sorted_list): # 재귀함수
+    if origin_list:
+        n = origin_list.pop(0)
+        index = get_index(sorted_list, n)
+        if (index < len(sorted_list)):
+            sorted_list.insert(index, n)
+        else:
+            sorted_list.append(n)
+        return insert_sort2(origin_list, sorted_list)
+    else:
+        return sorted_list
+
 
 list = [123, 53, 23, 542, 3, 123]
 print(insert_sort(list))
+
+list2 = [123, 53, 23, 542, 3, 123]
+print(insert_sort2(list2, []))
 
 # 해설
 def 결과값에서_삽입값이들어갈_인덱스(결과값, 삽입값):
