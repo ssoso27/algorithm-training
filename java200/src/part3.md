@@ -2,6 +2,7 @@
 1. [foreach](#foreach)
 2. [varargs(가변인자)](#varargs)
 3. [List](#list)
+4. [Lambda 형식](#lambda)
 
 ## <span id="foreach"> 1. foreach </span> 
 - iterate(루프를 돌릴 객체)를 활용하여 index 없이 for문 구현
@@ -28,7 +29,7 @@ for (String name: names) {
 - 매개변수 : <u>동일 type의 한 개 이상의 변수 or 배열</u>
 - 매개변수 개수 별로 여러 개가 필요했던 메소드를 하나로 처리  
     ->**오버로딩 메서드 개수가 줄어듬**
-- String... 와 같은 type의 매개변수를 받음 -> 컴파일러가**배열**변환
+- String... 와 같은 type의 매개변수를 받음 -> 컴파일러가 **배열**로 변환
 - (이전) 컬렉션을 이용한 가변인자
 ~~~java
 void method(Vector v) {
@@ -91,3 +92,8 @@ method("a", "b", "c");
         System.out.println(list.remove(1)); // "바둑이" 삭제 후 "바둑이" 출력
         System.out.println(list.remove("철수")); // true 출
     ```
+=======
+    
+## 4. Lambda 형식
+- 
+
