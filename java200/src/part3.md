@@ -95,5 +95,58 @@ method("a", "b", "c");
 =======
     
 ## 4. Lambda 형식
-- 
+- [참고 블로그](http://palpit.tistory.com/670)
+- 기본 구조  
+    ```java
+    (타입 매개변수, ... ) -> { 실행문 }  
+    ex) (int a) -> { System.out.println(a); }
+    ```
+- 타입, ( ), { }, return은 생략 가능하다
+ > - 타입 : 런타임 시 대입되는 값에 따라 자동 인식 됨
+ > - ( ) : 매개변수가 1개 뿐일 때 생략 가능
+ > - { } : 실행문이 한 줄 뿐일 때 생략 가능
+ > - return : return문만 있을 때 생략 가능
+- Java는 메소드만 단독 생성이 불가하고, 오직 클래스의 멤버함수 형태로만 존재한다.  
+    => 따라서, 람다식은 **해당 메소드를 지닌 객체**를 생성한다.  
+        이 때, 객체는 interface의 **익명 구현 객체**이다.
+- target type : 구현 대상 interface
+- target type은 <u>추상 메소드가 1개 뿐인</u> interface만 가능하다.
+- **@FunctionalInterface** : 두 개 이상의 추상메소드를 막는 어노테이션
+- 각 유형 별 람다식
+    1. 매개변수와 리턴값이 없는 람다식
+    ```java
+    interface MyInterface {
+      public void method();  
+    }
+      
+    ...
+      
+   MyInterface fi = () -> { System.out.println("method"); };
 
+    ```
+    2. 매개변수가 있는 람다식
+    ```java
+    interface MyInterface {
+      public void method(int x);  
+    }
+      
+    ...
+      
+   MyInterface fi = (x) -> { System.out.println(x); };
+   MyInterface f1 = x -> System.out.println(x + 1); 
+ 
+   fi.method(3); // 가장 마지막으로 구현된 x + 1 수행
+
+    ```
+    3. 리턴값이 있는 람다식
+    ```java
+    interface MyInterface {
+      public void method(int x, int y);  
+    }
+      
+    ...
+      
+   MyInterface fi = (x, y) -> { return sum(x+y); };
+   MyInterface fi = (x, y) -> sum(x+y);
+
+    ```
