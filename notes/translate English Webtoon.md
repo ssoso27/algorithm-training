@@ -1,0 +1,369 @@
+# 토익 스터디 - 영어 웹툰 번역
+
+I Don't Want This kind of Hear 
+
+url : https://www.webtoons.com/en/fantasy/i-dont-want-this-kind-of-hero/list?title_no=98
+
+
+
+<u>밑줄</u> : 사전에서 찾음
+
+*이태릭체* : 모르겠음…의역.
+
+## 프롤로그
+
+- 1
+  - **MYSTICAL CREATURE**
+  - 미지의 생명체
+  - **AN ANIMAL OR PERSON WITH SUPERNATURAL ABILITIES**
+  - 초자연적인 능력을 지닌 동물 혹은 사람
+- 2
+  - **THE WORD IS USUALLY USED TO REFER TO "A MYSTICAL CREATURE THAT CAN TRANSFORM INTO A PERSON AND CAN EVEN MARRY A PERSON."**
+  - 그 단어는 보통 "사람으로 변할 수 있고 사람과 결혼할 수 있는 미지의 생명체"를 <u>언급하는 데</u> 사용된다.
+  - **THEY CAN BE FOUND ANYWHERE FROM MYTHOLOGY TO CHILDREN'S BOOKS.**
+  - 그들은 동화에 나오는 어떤 <u>신화</u>에서든 찾을 수 있다.
+- 3
+  - **PRINCE...!**
+  - 왕자님...!
+  - **PRINCESS! I'VE LONGED TO MEET YOU.**
+  - 공주님! *저는 당신을 만나기 위해 오랫동안 기다렸습니다.*
+  - **UGH, WHAT'S WITH THE FISH SMELL...**
+  - 아, 물고기 냄새...
+  - **THERE HAVE BEEN MATY TALES ABOUT THEM.**
+  - 그들에 대한 정말 많은 <u>이야기</u>들이 있었다.
+- 4
+  - **A LOT.**
+  - 많이.
+- 5
+  - **DAD... I WANT TO BE A HUMAN.**
+  - 아빠… 나 사람이 되고 싶어요.
+  - **ARE YOU CRAZY?**
+  - 너 미쳤니?
+  - **DO YOU WANNA GIVE YOUR MATHER A HEART ATTACK?!**
+  - 너 너네 엄마 심장마비 걸리게 하고 싶니?!
+  - **OVER MY DEAD BODY!**
+  - *내가 죽기 전엔 안 돼!*
+  - **A WHOLE LOT.**
+  - 존나 많이.
+- 6
+  - **WHY WHRE THERE SO MANY?**
+  - 왜 그렇게 많았을까?
+- 7
+  - **BECAUSE THEY'RE NOT IMAGINARY- THEY'RE REAL.**
+  - 왜냐하면 그들은 환상이 아니기 때문이다. 그들은 진짜다.
+  - **MYSTICAL CREATURES ARE REAL.**
+  - 미지의 생명체들은 리얼이다.
+- 8
+  - **AND THEY'RE RIGHT NEXT TO US.**
+  - *그리고 그들은 바로 우리 곁에 있다.* 
+- 9
+  - **GET OUT OF THE WAY!**
+  - 길에서 꺼져!
+  - **AND AMONG THEM,**
+  - 그리고 그들 <u>사이에서</u>,
+- 10
+  - **GOOD, LOST'EM...**
+  - 좋아, *Lost 'Em ...* 
+  - **ARE OUR HEROES FIGHTING BAD GUYS.**
+  - *우리의 히어로들은 밷-가이들과 싸운다.* 
+- 11
+  - **WHO?**
+  - 누구야?
+- 12
+  - **HEY! STOP!!**
+  - 거기! 멈춰!!
+- 13
+  - **THIS IS SPOON.**
+  - 이것은 스푼이다.
+  - **IF YOU COOPERATE, THERE WON'T BE ANY NEED FOR BLOODSHED.**
+  - 만약 네가 <u>협력한다면</u>, *유혈사태는 일어나지 않을 거야.*
+  - **WE SOUND LIKE BAD GUYS...**
+  - 우리가 악당처럼 말하고 있어...
+- 14
+  - **HAH!**
+  - 하!
+- 15
+  - **NICE TRY! DIE, BOTH OF YOU!**
+  - 좋은 시도야! 죽어, 너희 둘 다!
+- 16
+  - **HURRY! YOUR TELEKINESIS!**
+  - 빨리! <u>염력!</u>
+  - **GOT IT.**
+  - ㅇㅋ
+- 17
+  - **WHAT THE HELL!?**
+  - 머야시발????
+  - **...HUH? WHAT'S WRONG WITH THIS THING?**
+  - …하? 무슨 일이 일어난거야?
+- 18 19 20
+  - **UGH... DAMN!**
+  - 윽… 시발!
+- 21
+  - **OH NO, HE'S GETTING AWAY!**
+  - 오 노, 쟤 튄다!
+- 22
+  - **NOTHING'S FASTER THAN A CHEETAH!**
+  - 치타보다 빠른 건 없지!
+  - **WHEN WHY DO YOU RIDE A BIKE!**
+  - 그럼 바이크는 왜 탄거야!
+  - **THAT THING WAS A CHEETAH? THE DRAWING'S NOT VERY GOOD SO I COULDN'T TELL.**
+  - 저거 치타였어? 그림이 구려서 말 못했는데.
+- 23
+  - **FREEDOM!!**
+  - 쁘리덤!!
+- 24
+  - **HE WENT THAT WAY!**
+  - 걔 저 길로 갔어!!!
+- 25 26 27
+  - **HAHAHA! FOOL- AHHH...**
+  - 하하하! 멍청이들~!~!~!~!! 
+- 32
+  - **MOVE IT!**
+  - 움직여!
+  - **ONE SEC... MY... GROIN...**
+  - *잠깐만*… 내… <u>사타구니</u>...
+- 33
+  - **THE COPS TOOK HIM AWAY.**
+  - *도망치는 그를 붙잡았어.*
+  - **NOW WE JUST HABE TO RETURN WHAT HE STOLE, RIGHT?**
+  - 지금 우리 그가 훔친 것을 돌려줘야 하는데, 맞지?
+- 34
+  - **GREAT JOB EVERYONE~**
+  - 모두 참 잘했어요~
+  - **EXCELLENT WORK.**
+  - 완벽한 일처리야.
+- 35
+  - **IT'S NOT EASY CATCHING A BICK THIEF, BUT YOU DID IT.**
+  - 바이크 절도범을 잡는 것이 쉽지는 않은데, 너넨 해냈어.
+- 40
+  - **EXCUSE ME.**
+  - 실례합니당
+- 42
+  - **YES, WHAT IS IT?**
+  - 네, 무슨 일이죠?
+- 43
+  - **MY TEACHER TOLE ME TO THINK ABOUT WHAT I WANT TO BE WHEN I GROW UP, SO I CAME HERE TO LEARN FORM YOU.**
+  - 선생님이 내가 커서 뭐가 되고 싶은지 생각해보라고 하셔서, 당신한테 <u>배우려고</u> 왔어요.
+  - **TELL ME WHAT SPOON'S STRENGTH IS.**
+  - 스푼의 <u>힘</u>에 대해서 말해주세요. (??? 뭔가 겁나 이상하다.)
+- 44
+  - **WELL! LOOKS LIKE WH HABE A FUTURE TEAM MEMBER HEAR.**
+  - 좋아요! *보다시피* 우리는 미래의 팀 멤버를 여기에 갖고 있네요.
+  - **STRENGTHS, HMM, THERE ARE SO MANY IT'S HARD TO CHOOSE...**
+  - 힘이라, 흠, *그것은 매우 많고 선택하는건 어렵네요...*
+- 45
+  - **A WORKPLACE WHERE EVERYONE IS SATISFIED.**
+  - 모두가 <u>만족하는</u> 일터.
+  - **I'M... I'M VERY SORRY. SPOON WILL FULLY REIMBURSE YOU.**
+  - (죄송합니다. 스푼이 모두 <u>변상하겠습니다.</u>)
+- 46
+  - **A PLACE WHERE SUPERIOR AND SUBORDINATE GET ALONG LIKE FRIENDS.**
+  - <u>상사</u>와 <u>부하</u>가 *친구 같은 장소.*
+  - **I ASK YOU TO GET THE BIKE BACK AND YOU DESTORY IT.**
+  - (내가 너한테 바이크 돌려줬냐고 물었고 너는 그걸 부쉈지.)
+- 47
+  - **WE FIND PEACEFUL SOLUTIONS TO EVERY PROBLEM.**
+  - 우리는 모든 문제에서 평화로운 해결책을 찾습니다.
+  - **HE GOT GREEDY AND LOST HIS JOHNSON.**
+  - (그는 <u>욕심을 부렸고</u> 그의 존슨을 잃었다.)
+- 48
+  - **WE'RE HEROES WORKING FOR THE GOOD OF ALL CITIZENS.**
+  - 우리는 모든 시민의 *행복*을 위해 일하는 히어로입니다.
+  - **THAT'S THE EVERYDAY LIFE OF PEACE-LOVING SPOON.**
+  - 그것은 *평화를 사랑하는* 스푼의 *일상*입니다.
+- 50
+  - **I THINK SOMEONE'S GETTING HURT BEHIND YOU...**
+  - 당신 뒤에서 <u>다친</u> 사람을 본 것 같은데...
+  - **HM? THAT CAN'T BE POSSIBLE.**
+  - 흠? 그것은 있을 수 없는 일이에요.
+- 51
+  - **SELL, IF YOU'D JUST TURN AROUND...**
+  - 좋아요, 만약 당신이 돌아서본다면...
+  - **YOU MUST BE MISTAKEN.**
+  - 당신이 잘못 본거라니까요.
+- 54
+  - **'PEACEFUL SOLUTIONS'?**
+  - ''평화적인 해결책''?
+- 55
+  - **WHAT A LOAD OF CRAP.**
+  - *헛소리 하네.*
+- 56
+  - **HE MEANS PEACEFUL TO EVERYONE EXCEPT VILLAINS LIKE US.**
+  - 우리같은 악당은 제외한 모두의 평화를 말한거겠지.
+  - **YEAH, THAT'S IT... IT'S DISCRIMINATION.**
+  - 맞아, 그래… 이건 <u>차별</u>이야.
+- 57
+  - **NOTHING GOOD CAN COME FROM TAKING THEM ON, BUT...**
+  - *그들이 말한 것에서 좋은 건 없어. 그렇지만...*
+- 58
+  - **WHAT IF WE STOOD UP TO THEM JUST A LITTLE?**
+  - *만약 우리가 조금이라도 그들에게 대든다면?*
+- 59
+  - **FOR MY LOVE.**
+  - 나의 사랑을 위하여.
+- 64
+  - **HEY BOSS.**
+  - 저기, 보스.
+  - **WHAT?**
+  - 왜?
+- 65
+  - **YOU SUCK AT DARTS.**
+  - 당신 다트 존나 못 던져요.
+  - **SHUT UP!**
+  - 닥쳐!
+
+
+
+## 1화
+
+- 1
+  - **WOULD YOU LIKE TO BE A HERO?**
+  - 영웅이 되고 싶습니까?
+- 2
+  - **I DON'T WANT ANY.**
+  - 아무것도 원하지 않아요.
+- 3
+  - **I'M NOT A SALESMAN...!!**
+  - 난 판매사원이 아니야...!!
+  - **WHATEVER, I'M NOT BUYING ANY.**
+  - 어쨌든, 전 아무것도 안 사요.
+- 4
+  - **MY NAME'S NAGA. I'M IN MY SECOND YEAR OF HIGH SCHOOL.**
+  - 내 이름은 나가. 고등학교 2학년이다.
+  - **WHAT MAKES ME SPECIAL IS THAT I DON'T HAVE ANYTHING THAT MAKES SPECIAL.**
+  - *날 특별하게 만드는 것은 특별한 것이 없다는 점이다.*
+- 5
+  - **LIKE MOST HIGH SCHOOL STUDENTS, MY DAY-TO-DAY LIFE IS PRETTY DULL.**
+  - 대부분의 고등학생처럼, 나의 하루하루는 정말 <u>지루하다.</u>
+  - **GOOD MORNING~ OFF TO SCHOOL?**
+  - 좋은 아침~ *학교 가니?*
+  - **AH, HELLO.**
+  - 아, 안녕하세요.
+- 6
+  - **BUT LATELY I KEEP RUNNING INTO STRANGE PEOPLE.**
+  - 하지만 <u>최근에</u> 나는 <u>이상한</u> 사람으로부터 *도망치고 있다.*
+- 7
+  - **IT STARTED A FEW DAYS AGO, IN THE MORNING.**
+  - 이건 며칠 전 아침에 시작되었다.
+- 8
+  - **YOU ARE A SPECIAL PERSON.**
+  - 당신은 특별한 사람입니다.
+- 9
+  - **I SAW THIS WEIRD AD ON TV.**
+  - 나는 티비에서 <u>불가사의한</u> 광고를 봤다.
+- 10
+  - **YOU'RE SPILLING YOUR FOOD.**
+  - 너 음식 <u>흘렸다</u>.
+- 11
+  - **THAT'S RIGHT, I MEAN YOU!**
+  - 맞습니다, 당신 말입니다!
+  - **YOU HAVE THE POTENTIAL TO BE A HERO.**
+  - 당신은 히어로가 될 가능성을 갖고 있습니다.
+- 12
+  - **WE ARE THE HERO ORGANIZATION "SPOON"**
+  - 우리는 히어로 기관 "스푼"입니다.
+  - **WE STRIVE TO KEEP THE WORLD SAFE AND PEACEFUL.**
+  - 우리는 세계의 안전과 평화를 지키기 위해 <u>노력합니다.</u>
+  - **COME FIGHT WITH US!**
+  - 우리와 함께 싸웁시다!
+- 13
+  - **DON'T KNOW HOW TO JOIN?**
+  - 어떻게 가입하는 지 모릅니까?
+  - **DON'T WORRY.**
+  - 걱정 마십시오.
+- 14
+  - **AFTER SEEING THAT COMMERCIAL,**
+  - 그 <u>광고를</u> 본 후,
+  - **WE'LL BE COMING TO YOU SOON.**
+  - 우리는 당신에게 갈 것입니다.
+  - **I DIDN'T**
+  - 나는 몰랐다.
+- 15
+  - **WHAT ON EARTH IS HE WEARING...**
+  - *저 옷은 <u>지구</u> 어디에 있는 거야...*
+  - **THINK ANYTHING OF IT.**
+  - 그것에 대해 <u>어떤 것도</u> 생각하지 않았다.
+- 16
+  - **I DON'T CARE WHETHER IT'S REAL OF FAKE.**
+  - 그것이 <u>진짜인지 가짜인지도</u> 신경쓰지 않았다.
+  - **IT'S GOT NOTHING TO DO WITH ME.**
+  - *그것은 나에게 아무 것도 하지 않았다. (???)*
+- 17
+  - **AT LEAST I THOUGHT SO,**
+  - <u>최소한</u> 그렇게 생각했다,
+- 20
+  - **WHAT IS IT?**
+  - 무엇인가?
+  - **PLEASE, SAY WHATEVER YOU LIKE.**
+  - 무엇이든 네가 원하는 것을 말해주렴.
+- 21
+  - **WHO ARE THESE PEOPLE?**
+  - 이 사람들은 누구인가요?
+- 22
+  - **OH, PAY NO ATTENTION TO US.**
+  - 오, *우리에게 신경쓰지 말아요.*
+  - **WHO THE HECK IS THIS GUY...**
+  - <u>대체</u> 이 사람은 누구야...
+- 23
+  - **NAGA... HOPING TO ATTEND DECENT UNIVERSITY I SEE.**
+  - 나가… 내가 보기엔 <u>분수에 맞는</u> 대학에 <u>출석</u>하길 원하는군… (대학에 입학하길 바란다?)
+  - **GOOD LUCK STUDYING FOR THAT ENTRANCE EXAM.**
+  - 입학 시험을 위해서는 열심히 공부해야 되겠는걸.
+  - **HEY! ARE YOU LOOKING AT MY STUDENT RECORD?**
+  - 저기요! 당신 내 학생기록부 보고 있는 거예요?
+- 24
+  - **IS THIS THE FIRST TIME YOU'VE ALL MET?**
+  - 당신들 전부 처음 만나요?
+  - **WHY? I GAVE YOU HIS NUMBER A WEEK AGO.**
+  - 왜? 지난 주에 그의 연락처를 줬잖아.
+  - **WHY'D HE GIVE THEM THAT?**
+  - 왜 그가 그들에게 그것을 준거지?
+- 25
+  - **WE HAD A HARD TIME REACHING HIM.**
+  - 우리는 그에게 닿기 까지 노력했어요.
+  - **HE DOESN'T WATCH MUCH TV SO HE JUST SAW OUR AD TODAY.**
+  - 그는 티비를 겁나 안봐서 오늘에야 우리의 광고를 보았어요.
+  - **WHAT'S THE TV GOT TO DO WITH IT?**
+  - ???
+- 26
+  - **NOBODY TRIED TO CONTACT ME THIS MORNING.**
+  - 오늘 아침에 아무도 저에게 접촉하지 않았는데요.
+  - **OF COURSE WE DID.**
+  - 물론 우리는 했습니다.
+  - **WHAT DOES IT MATTER!!**
+  - *무슨 일이야!!*
+- 27
+  - **DO YOU REMEMBER THE TV AD YOU SAW THIS MORNING?**
+  - 당신 오늘 아침에 본 티비 광고 기억 안나요?
+- 28
+  - **WE ARE THE HERO ORGANIZATION SPOON.**
+  - 우리는 히어로 기관 스푼입니다.
+  - **WE TOLD YOU A LITTLE WHILE AGO THAT WE'D COME LOOKING FOR YOU.**
+  - 우리는 적은 기간 동안 당신에게 우리가 당신을 찾아갈 것이라 <u>말했습니다.</u>
+  - **I'LL PRETEND I DIDN'T SEE IT.**
+  - 저는 본 적 없다고 <u>자신할 수 있습니다.</u>
+  - **I'M NOT INTERESTED IN JOINING SO CAN I GO NOW?**
+  - 저는 가입할 생각이 없는데, 지금 나가도 됩니까?
+- 29
+  - **WHY? JUST STAY AND TALK WITH US A LITTLE MORE.**
+  - 왜죠? 잠깐만 머물러서 조금만 더 우리랑 대화해요.
+  - **HEY MAN, I TOLD YOU I DON'T WANT WHAT YOU'RE SELLING!**
+  - 저기요, 저는 당신의 판매품을 사고 싶지 않다고 이야기 했어요!
+  - **I DON'T NEED A NEW CELEPHONE OR A LOAN! GOT IT?**
+  - 저는 새로운 휴대폰이나 <u>대출이</u> 필요 없다고요! 알겠어요?
+  - **THAT'S NOT WHAT OUR COMPANY'S ABOUT.**
+  - 그건 우리 회사에 대한 것이 아니에요.
+  - **WHY DO YOU KEEP SAYING THAT!?**
+  - 왜 *그 말만 하는 거예요!?*
+- 30
+  - **ISN'T IT OBVIOUS? YOU DON'T SHOW YOUR FACE ON TV AND YOU DRESS LIKE GANGSTERS...**
+  - 그건 <u>확실하지</u> 않잖아요? 당신은 티비에 나온 당신 얼굴이랑 갱스터 같은 옷을 못 봤어요...
+- 31
+  - **YOU GOT A PROBLEM WITH MY OUTFIT?**
+  - 내 옷에 무슨 문제 있나?
+  - **SORRY.**
+  - 죄송합니다.
+- 32
+  - **LET'S LEAVE THE COMMERCAL ASIDE.**
+  - **WHAT WOULD HEROES WANT WITH ME?**
+  - **IF THEY'RE HEROES WHY AREN'T THEY WEARING BRIGHT-COLOURED TIGHTS?**

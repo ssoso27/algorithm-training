@@ -1,0 +1,44 @@
+# GO 언어 맛보기 - by. 호날두 
+
+- 의의
+  - 시스템 프로그래밍
+  - 객체지향 지원, **동시성 지원**
+  - 빠른 컴파일시간 
+- **동시성** vs 병렬성
+  - 동시성 : 여러 일을 한꺼번에 다룸
+    - 동시에 일을 하고는 있지만, 꼭 같이 할 필요는 없다?
+    - ex) 커피 마시며 핸드폰 하는 사람
+    - <u>동시에 일어나는 일은 어떻게 할 것인가?</u>
+      - 동기/비동기는 개발자 맴
+    - 기존 프로세스/스레드에 관한 이야기.
+    - <u>한정된 자원(cpu)에게 정확하게 나뉘어진 개별 잡을 던져줌</u>
+  - 병렬성 : 여러 일을 한꺼번에 실행하는 것
+    - 한 가지 일을 나눠서 처리
+    - 실행 주체가 n명
+    - ex) 청소당번 둘이서 같이 바닥 쓸기
+    - <u>동일한 데이터(연속된 string) 들어옴 -> 코어(cpu)한테 어떻게 얼마만큼 잘라서 나눠줄 것이냐.</u>
+
+- Go 설치
+  - GOROOT : go가 설치된 폴더
+  - GOPATH : bin, pkg, src …를 가진 폴더 지정 **(GOROOT랑 같으면 안됨!!!!)**
+    - java의 class path와 비슷한듯 다름
+    - 기본 $HOME/go
+    - src 폴더 밑에 새로운 프로젝트가 하나씩 박히는 느낌?
+- GO 특징
+  - ![img](http://m.dbguide.net/publishing/img/knowledge/1110242ck01.jpg)
+  - function 과 method의 차이가 명시적임
+- Slice 자료구조 vs Array 자료구조
+  - Array
+    - fix 데이터 행렬
+    - b := [...]string("a", "b") :: size 2인 Array
+    - ![img](https://blog.golang.org/go-slices-usage-and-internals_slice-array.png)
+  - Slice
+    - 유동적인 데이터 행렬 (비: java ArrayList)
+    - b := []string("a", "b") :: size 2인 Slice
+    - 내부의 Array를 가리키는 포인터 자료구조 같은 느낌? 
+    - ![go array sliceì ëí ì´ë¯¸ì§ ê²ìê²°ê³¼](https://blog.golang.org/go-slices-usage-and-internals_slice-1.png)
+- scope
+  - 소문자 선언 : 해당 패키지 내부만
+  - 대문자 : 해당 패키지 외부 
+- defer
+  - 

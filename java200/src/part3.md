@@ -92,10 +92,11 @@ method("a", "b", "c");
         System.out.println(list.remove(1)); // "바둑이" 삭제 후 "바둑이" 출력
         System.out.println(list.remove("철수")); // true 출
     ```
-=======
     
 ## 4. Lambda 형식
-- [참고 블로그](http://palpit.tistory.com/670)
+- [참고 블로그 1](http://palpit.tistory.com/670)
+- [참고 블로그 2](http://blog.fupfin.com/?p=50)
+### 4-1. 요약
 - 기본 구조  
     ```java
     (타입 매개변수, ... ) -> { 실행문 }  
@@ -115,6 +116,7 @@ method("a", "b", "c");
 - 각 유형 별 람다식
     1. 매개변수와 리턴값이 없는 람다식
     ```java
+    @FunctionalInterface
     interface MyInterface {
       public void method();  
     }
@@ -126,6 +128,7 @@ method("a", "b", "c");
     ```
     2. 매개변수가 있는 람다식
     ```java
+    @FunctionalInterface
     interface MyInterface {
       public void method(int x);  
     }
@@ -140,6 +143,7 @@ method("a", "b", "c");
     ```
     3. 리턴값이 있는 람다식
     ```java
+    @FunctionalInterface
     interface MyInterface {
       public void method(int x, int y);  
     }
@@ -150,3 +154,4 @@ method("a", "b", "c");
    MyInterface fi = (x, y) -> sum(x+y);
 
     ```
+### 4-2. 
