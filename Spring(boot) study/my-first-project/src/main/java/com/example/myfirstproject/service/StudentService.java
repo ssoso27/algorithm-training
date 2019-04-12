@@ -13,4 +13,8 @@ public class StudentService {
     public void create(Student student) {
         studentRepository.save(student);
     }
+
+    public void list() {
+        studentRepository.findAll();
+    }
 }
