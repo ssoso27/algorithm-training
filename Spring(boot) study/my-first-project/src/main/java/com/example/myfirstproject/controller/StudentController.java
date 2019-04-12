@@ -5,6 +5,8 @@ import com.example.myfirstproject.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.List;
+
 @RestController // contoller + response body
 @RequestMapping("/students") // 기본 route 걸기
 public class StudentController {
@@ -17,7 +19,7 @@ public class StudentController {
     }
 
     @GetMapping
-    public void list() {
-        studentService.list();
+    public List<Student> list() {
+        return studentService.list();
     }
 }
