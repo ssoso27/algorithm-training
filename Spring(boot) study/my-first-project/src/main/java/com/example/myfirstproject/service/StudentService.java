@@ -19,4 +19,9 @@ public class StudentService {
     public List<Student> list() {
         return (List<Student>) studentRepository.findAll();
     }
+
+    public Student get(Integer id) {
+        // TODO : 에러핸들링 해주기
+        return studentRepository.findById(id).get();
+    }
 }

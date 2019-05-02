@@ -22,4 +22,9 @@ public class StudentController {
     public List<Student> list() {
         return studentService.list();
     }
+
+    @GetMapping("/{id}")
+    public Student get(@PathVariable Integer id) {
+        return studentService.get(id);
+    }
 }
