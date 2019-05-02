@@ -24,4 +24,12 @@ public class StudentService {
         // TODO : 에러핸들링 해주기
         return studentRepository.findById(id).get();
     }
+
+    public void update(Student student) {
+        studentRepository.save(student);
+    }
+
+    public void delete(Integer id) {
+        studentRepository.deleteById(id);
+    }
 }
