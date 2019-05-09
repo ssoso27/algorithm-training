@@ -21,8 +21,7 @@ public class StudentService {
     }
 
     public Student get(Integer id) {
-        // TODO : 에러핸들링 해주기
-        return studentRepository.findById(id).get();
+        return studentRepository.findById(id).orElse(null);
     }
 
     public void update(Student student) {
