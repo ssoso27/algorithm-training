@@ -1,7 +1,7 @@
 package com.example.myfirstproject;
 
 import com.example.myfirstproject.controller.StudentController;
-import com.example.myfirstproject.model.Student;
+import com.example.myfirstproject.entity.Student;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -44,15 +44,15 @@ public class MyFirstProjectApplicationTests {
 	public void setUp() {
 		student = new Student();
 		student.setName("고길동");
-		student.setHackbun("11학번");
-		student.setBirthday("1월1일");
+		student.setHackbun("2011103102");
+		student.setBirthday("19920514");
 		student.setGender("m");
 
 		realStudent = new Student();
 		realStudent.setId(1);
-		realStudent.setName("실험맨");
+		realStudent.setName("김철수");
 		realStudent.setHackbun("2011150251");
-		realStudent.setBirthday("19980501");
+		realStudent.setBirthday("19920501");
 		realStudent.setGender("m");
 
 	}
@@ -75,7 +75,7 @@ public class MyFirstProjectApplicationTests {
 	@Test
 	public void testGet() {
 		int id = 1;
-		String name = "실험맨";
+		String name = "김철수";
 		Student result = studentController.get(id);
 
 		assertThat(result.getId(), is(id));

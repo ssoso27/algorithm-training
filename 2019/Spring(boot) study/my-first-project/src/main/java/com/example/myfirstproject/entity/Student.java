@@ -1,11 +1,12 @@
-package com.example.myfirstproject.model;
+package com.example.myfirstproject.entity;
 
 import lombok.Data;
 
 import javax.persistence.*;
 
 @Data // getter, setter 등 자동생성
-@Entity(name = "Student") // Student 라는 도메인 생성
+@Entity
+@Table(name="students")
 public class Student {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

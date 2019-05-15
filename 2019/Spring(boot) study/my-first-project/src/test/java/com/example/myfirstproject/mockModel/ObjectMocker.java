@@ -1,6 +1,6 @@
 package com.example.myfirstproject.mockModel;
 
-import com.example.myfirstproject.model.Student;
+import com.example.myfirstproject.entity.Student;
 
 import java.util.ArrayList;
 import java.util.List;

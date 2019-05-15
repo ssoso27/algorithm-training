@@ -1,6 +1,6 @@
 package com.example.myfirstproject.service;
 
-import com.example.myfirstproject.model.Student;
+import com.example.myfirstproject.entity.Student;
 import com.example.myfirstproject.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,7 +1,6 @@
 package com.example.myfirstproject.controller;
 
 import com.example.myfirstproject.mockModel.ObjectMocker;
-import com.example.myfirstproject.model.Student;
 import com.example.myfirstproject.service.StudentService;
 import org.junit.Before;
 import org.junit.Test;
@@ -13,8 +12,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.ResultActions;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
-
-import java.util.List;
 
 import static org.mockito.BDDMockito.given;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;

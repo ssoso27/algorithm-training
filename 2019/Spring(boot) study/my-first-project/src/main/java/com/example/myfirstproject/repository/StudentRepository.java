@@ -1,6 +1,6 @@
 package com.example.myfirstproject.repository;
 
-import com.example.myfirstproject.model.Student;
+import com.example.myfirstproject.entity.Student;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
