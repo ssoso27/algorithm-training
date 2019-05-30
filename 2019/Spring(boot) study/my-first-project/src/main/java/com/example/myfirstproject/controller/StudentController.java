@@ -1,5 +1,6 @@
 package com.example.myfirstproject.controller;
 
+import com.example.myfirstproject.entity.Lecture;
 import com.example.myfirstproject.entity.Student;
 import com.example.myfirstproject.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -36,5 +37,10 @@ public class StudentController {
     @DeleteMapping("/{id}")
     public void delete(@PathVariable Integer id) {
         studentService.delete(id);
+    }
+
+    @GetMapping("/{id}/attended_lectures")
+    public List<Lecture> listAttndedLectures(@PathVariable Integer id) {
+        return studentService.listAttndedLectures(id);
     }
 }
