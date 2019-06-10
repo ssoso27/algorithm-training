@@ -20,7 +20,7 @@ public class Comment {
 
     @ManyToOne(targetEntity = Post.class)
     @JoinColumn(name="post_id")
-    private Integer post_id;
+    private Post post;
 
     @Column(name="content")
     private String content;
