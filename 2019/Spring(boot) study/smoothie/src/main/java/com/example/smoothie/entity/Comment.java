@@ -1,5 +1,6 @@
 package com.example.smoothie.entity;
 
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -18,7 +19,7 @@ public class Comment {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
 
-    @ManyToOne(targetEntity = Post.class)
+    @ManyToOne(targetEntity = Post.class, cascade = CascadeType.ALL)
     @JoinColumn(name="post_id")
     private Post post;
 
