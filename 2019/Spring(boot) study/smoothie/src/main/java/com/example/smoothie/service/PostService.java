@@ -29,6 +29,8 @@ public class PostService {
     }
 
     public void delete(Integer id) {
-        repository.deleteById(id);
+        if (repository.existsById(id)) {
+            repository.deleteById(id);
+        }
     }
 }
