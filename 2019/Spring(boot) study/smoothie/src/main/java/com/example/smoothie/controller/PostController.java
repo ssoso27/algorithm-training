@@ -1,5 +1,7 @@
 package com.example.smoothie.controller;
 
+import com.example.smoothie.dto.SimpleCommentDTO;
+import com.example.smoothie.entity.Comment;
 import com.example.smoothie.entity.Post;
 import com.example.smoothie.service.PostService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -36,5 +38,10 @@ public class PostController {
     @DeleteMapping("/{id}")
     public void delete(@PathVariable Integer id) {
         service.delete(id);
+    }
+
+    @GetMapping("/{id}/comments")
+    public List<SimpleCommentDTO> findComments(@PathVariable Integer id) {
+        return service.findComments(id);
     }
 }
