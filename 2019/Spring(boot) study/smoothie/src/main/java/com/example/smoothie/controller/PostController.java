@@ -3,9 +3,7 @@ package com.example.smoothie.controller;
 import com.example.smoothie.entity.Post;
 import com.example.smoothie.service.PostService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -18,5 +16,25 @@ public class PostController {
     @GetMapping
     public List<Post> list() {
         return service.list();
+    }
+
+    @GetMapping("/{id}")
+    public Post get(@PathVariable Integer id) {
+        return service.get(id);
+    }
+
+    @PostMapping
+    public void create(@RequestBody Post post) {
+        service.create(post);
+    }
+
+    @PutMapping
+    public void update(@RequestBody Post post) {
+        service.update(post);
+    }
+
+    @DeleteMapping("/{id}")
+    public void delete(@PathVariable Integer id) {
+        service.delete(id);
     }
 }

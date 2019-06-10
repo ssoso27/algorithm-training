@@ -15,4 +15,20 @@ public class PostService {
     public List<Post> list() {
         return repository.findAll();
     }
+
+    public Post get(Integer id) {
+        return repository.findById(id).orElse(null);
+    }
+
+    public void create(Post post) {
+        repository.save(post);
+    }
+
+    public void update(Post post) {
+        repository.save(post);
+    }
+
+    public void delete(Integer id) {
+        repository.deleteById(id);
+    }
 }
