@@ -20,7 +20,7 @@ public class CommentController {
     }
 
     @GetMapping("/{id}")
-    public Comment get(@PathVariable Integer id) {
+    public Comment get(@PathVariable Long id) {
         return service.get(id);
     }
 
@@ -35,7 +35,7 @@ public class CommentController {
     }
 
     @DeleteMapping("/{id}")
-    public void delete(@PathVariable Integer id) {
+    public void delete(@PathVariable Long id) {
         service.delete(id);
     }
 }

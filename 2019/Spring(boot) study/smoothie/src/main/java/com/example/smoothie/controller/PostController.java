@@ -21,7 +21,7 @@ public class PostController {
     }
 
     @GetMapping("/{id}")
-    public Post get(@PathVariable Integer id) {
+    public Post get(@PathVariable Long id) {
         return service.get(id);
     }
 
@@ -36,12 +36,12 @@ public class PostController {
     }
 
     @DeleteMapping("/{id}")
-    public void delete(@PathVariable Integer id) {
+    public void delete(@PathVariable Long id) {
         service.delete(id);
     }
 
     @GetMapping("/{id}/comments")
-    public List<SimpleCommentDTO> findComments(@PathVariable Integer id) {
+    public List<SimpleCommentDTO> findComments(@PathVariable Long id) {
         return service.findComments(id);
     }
 }

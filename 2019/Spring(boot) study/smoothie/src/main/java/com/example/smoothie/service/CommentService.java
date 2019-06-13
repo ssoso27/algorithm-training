@@ -18,7 +18,7 @@ public class CommentService {
         return repository.findAll();
     }
 
-    public Comment get(Integer id) {
+    public Comment get(Long id) {
         return repository.findById(id).orElse(null);
     }
 
@@ -30,7 +30,7 @@ public class CommentService {
         repository.simpleUpdate(commentDTO.getId(), commentDTO.getContent());
     }
 
-    public void delete(Integer id) {
+    public void delete(Long id) {
         if (repository.existsById(id)) {
             repository.deleteById(id);
         }

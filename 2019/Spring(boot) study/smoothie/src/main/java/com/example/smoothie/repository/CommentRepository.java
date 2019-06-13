@@ -11,17 +11,17 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 @Repository
-public interface CommentRepository extends JpaRepository<Comment, Integer> {
+public interface CommentRepository extends JpaRepository<Comment, Long> {
 
     @Modifying
     @Transactional
     @Query(value = "INSERT INTO comments (post_id, content) VALUES (:postId, :content)", nativeQuery = true)
-    void simpleSave(@Param("postId") Integer postId, @Param("content") String content);
+    void simpleSave(@Param("postId") Long postId, @Param("content") String content);
 
     @Modifying
     @Transactional
     @Query(value = "UPDATE comments SET content = :content WHERE id = :id", nativeQuery = true)
-    void simpleUpdate(@Param("id") Integer id, @Param("content") String content);
+    void simpleUpdate(@Param("id") Long id, @Param("content") String content);
 
-    List<Comment> findByPostId(Integer postId);
+    List<Comment> findByPostId(Long postId);
 }

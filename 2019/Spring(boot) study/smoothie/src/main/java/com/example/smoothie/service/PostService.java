@@ -23,7 +23,7 @@ public class PostService {
         return repository.findAll();
     }
 
-    public Post get(Integer id) {
+    public Post get(Long id) {
         return repository.findById(id).orElse(null);
     }
 
@@ -35,13 +35,13 @@ public class PostService {
         repository.save(post);
     }
 
-    public void delete(Integer id) {
+    public void delete(Long id) {
         if (repository.existsById(id)) {
             repository.deleteById(id);
         }
     }
 
-    public List<SimpleCommentDTO> findComments(Integer postId) {
+    public List<SimpleCommentDTO> findComments(Long postId) {
         List<Comment> comments = commentRepository.findByPostId(postId);
         List<SimpleCommentDTO> results = new ArrayList<SimpleCommentDTO>();
 

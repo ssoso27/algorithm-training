@@ -15,16 +15,20 @@ import java.util.List;
 @NoArgsConstructor
 @Entity
 @Table(name = "posts")
-public class Post {
+public class Post extends BaseEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer id;
+    private Long id;
 
     @Column(name="title")
     private String title;
 
     @Column(name="content")
     private String content;
+
+    @ManyToOne(targetEntity = User.class, cascade = CascadeType.ALL)
+    @JoinColumn(name="user_id")
+    private User user;
 
     @JsonBackReference
     @OneToMany(mappedBy = "post", orphanRemoval = true)

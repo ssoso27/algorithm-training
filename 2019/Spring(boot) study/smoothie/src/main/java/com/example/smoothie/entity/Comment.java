@@ -14,14 +14,18 @@ import javax.persistence.*;
 @AllArgsConstructor
 @Entity
 @Table(name="comments")
-public class Comment {
+public class Comment extends BaseEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer id;
+    private Long id;
 
     @ManyToOne(targetEntity = Post.class, cascade = CascadeType.ALL)
     @JoinColumn(name="post_id")
     private Post post;
+
+    @ManyToOne(targetEntity = User.class, cascade = CascadeType.ALL)
+    @JoinColumn(name="user_id")
+    private User user;
 
     @Column(name="content")
     private String content;
