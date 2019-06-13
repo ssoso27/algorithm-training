@@ -23,7 +23,7 @@ public class CommentService {
     }
 
     public void create(SimpleCommentDTO commentDTO) {
-        repository.simpleSave(commentDTO.getPost_id(), commentDTO.getContent());
+        repository.simpleSave(commentDTO.getPost_id(), commentDTO.getUser_id(), commentDTO.getContent());
     }
 
     public void update(SimpleCommentDTO commentDTO) {

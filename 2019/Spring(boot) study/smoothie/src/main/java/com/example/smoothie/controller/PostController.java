@@ -1,6 +1,7 @@
 package com.example.smoothie.controller;
 
 import com.example.smoothie.dto.SimpleCommentDTO;
+import com.example.smoothie.dto.SimplePostDTO;
 import com.example.smoothie.entity.Comment;
 import com.example.smoothie.entity.Post;
 import com.example.smoothie.service.PostService;
@@ -26,13 +27,13 @@ public class PostController {
     }
 
     @PostMapping
-    public void create(@RequestBody Post post) {
-        service.create(post);
+    public void create(@RequestBody SimplePostDTO simplePostDTO) {
+        service.create(simplePostDTO);
     }
 
     @PutMapping
-    public void update(@RequestBody Post post) {
-        service.update(post);
+    public void update(@RequestBody SimplePostDTO simplePostDTO) {
+        service.update(simplePostDTO);
     }
 
     @DeleteMapping("/{id}")

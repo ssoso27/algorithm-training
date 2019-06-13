@@ -15,8 +15,8 @@ public interface CommentRepository extends JpaRepository<Comment, Long> {
 
     @Modifying
     @Transactional
-    @Query(value = "INSERT INTO comments (post_id, content) VALUES (:postId, :content)", nativeQuery = true)
-    void simpleSave(@Param("postId") Long postId, @Param("content") String content);
+    @Query(value = "INSERT INTO comments (post_id, user_id, content) VALUES (:postId, :userid, :content)", nativeQuery = true)
+    void simpleSave(@Param("postId") Long postId, @Param("userid") Long userId, @Param("content") String content);
 
     @Modifying
     @Transactional

@@ -1,6 +1,7 @@
 package com.example.smoothie.service;
 
 import com.example.smoothie.dto.SimpleCommentDTO;
+import com.example.smoothie.dto.SimplePostDTO;
 import com.example.smoothie.entity.Comment;
 import com.example.smoothie.entity.Post;
 import com.example.smoothie.repository.CommentRepository;
@@ -27,12 +28,12 @@ public class PostService {
         return repository.findById(id).orElse(null);
     }
 
-    public void create(Post post) {
-        repository.save(post);
+    public void create(SimplePostDTO simplePostDTO) {
+        repository.simpleSave(simplePostDTO.getTitle(), simplePostDTO.getUser_id(), simplePostDTO.getContent());
     }
 
-    public void update(Post post) {
-        repository.save(post);
+    public void update(SimplePostDTO simplePostDTO) {
+        repository.simpleUpdate(simplePostDTO.getId(), simplePostDTO.getTitle(), simplePostDTO.getContent());
     }
 
     public void delete(Long id) {
