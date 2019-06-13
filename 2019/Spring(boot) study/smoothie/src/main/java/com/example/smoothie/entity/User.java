@@ -1,6 +1,7 @@
 package com.example.smoothie.entity;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -27,6 +28,7 @@ public class User extends BaseEntity {
     @Column(name="nickname")
     private String nickname;
 
+    @JsonIgnore
     @Column(name="password")
     private String password;
 

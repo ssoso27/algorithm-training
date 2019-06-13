@@ -1,7 +1,6 @@
 package com.example.smoothie.controller;
 
-import com.example.smoothie.dto.SimpleCommentDTO;
-import com.example.smoothie.entity.Comment;
+import com.example.smoothie.dto.SimpleUserDTO;
 import com.example.smoothie.entity.User;
 import com.example.smoothie.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -27,13 +26,13 @@ public class UserController {
     }
 
     @PostMapping
-    public void create(@RequestBody User user) {
-        service.create(user);
+    public void create(@RequestBody SimpleUserDTO simpleUserDTO) {
+        service.create(simpleUserDTO);
     }
 
     @PutMapping
-    public void update(@RequestBody User user) {
-        service.update(user);
+    public void update(@RequestBody SimpleUserDTO simpleUserDTO) {
+        service.update(simpleUserDTO);
     }
 
     @DeleteMapping("/{id}")

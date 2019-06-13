@@ -1,5 +1,6 @@
 package com.example.smoothie.service;
 
+import com.example.smoothie.dto.SimpleUserDTO;
 import com.example.smoothie.entity.User;
 import com.example.smoothie.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -21,12 +22,12 @@ public class UserService {
         return repository.findById(id).orElse(null);
     }
 
-    public void create(User user) {
-        repository.save(user);
+    public void create(SimpleUserDTO user) {
+        repository.simpleSave(user.getEmail(), user.getNickname(), user.getPassword(), user.getIntro());
     }
 
-    public void update(User user) {
-        repository.save(user);
+    public void update(SimpleUserDTO user) {
+        repository.simpleUpdate(user.getId(), user.getEmail(), user.getNickname(), user.getPassword(), user.getIntro());
     }
 
     public void delete(Long id) {
